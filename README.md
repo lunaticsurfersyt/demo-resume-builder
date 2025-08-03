@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
    npm run dev
    \`\`\`
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the portfolio.
+5. Open [http://localhost:3000](http://localhost:3002) in your browser to view the portfolio.
 
 ## Customization
 
